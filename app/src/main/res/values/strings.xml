@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alphabet Launcher</string>
+    <string name="no_apps_found">No apps found for \'%1$s\'</string>
+    <string name="search_apps_placeholder">Search apps…</string>
+    <string name="favorites_title">Favourites</string>
+    <string name="add_to_favorites">Add to favourites</string>
+    <string name="remove_from_favorites">Remove from favourites</string>
+</resources>

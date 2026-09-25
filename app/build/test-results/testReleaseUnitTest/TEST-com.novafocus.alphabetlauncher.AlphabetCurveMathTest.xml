@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.novafocus.alphabetlauncher.AlphabetCurveMathTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-09-24T16:47:11" hostname="cachyos-x8664" time="0.031">
+  <properties/>
+  <testcase name="testZeroDisplacementOutsideInfluenceRadius" classname="com.novafocus.alphabetlauncher.AlphabetCurveMathTest" time="0.021"/>
+  <testcase name="testSymmetricDisplacement" classname="com.novafocus.alphabetlauncher.AlphabetCurveMathTest" time="0.0"/>
+  <testcase name="testTouchYToItemMapping" classname="com.novafocus.alphabetlauncher.AlphabetCurveMathTest" time="0.004"/>
+  <testcase name="testMaxDisplacementAtTouchPoint" classname="com.novafocus.alphabetlauncher.AlphabetCurveMathTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
